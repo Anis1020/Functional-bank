@@ -1,0 +1,14 @@
+#bank-status{
+  display: flex;
+  gap: 30px;
+  justify-content: space-evenly;
+  margin: 0px auto
+  
+}
+#btn-section{
+  display: flex;
+  justify-content: space-around;
+}
+input{
+  width: 60px
+}
